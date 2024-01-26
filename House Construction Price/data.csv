@@ -1,0 +1,142 @@
+,Locality,Place,Property Size (sq. meters),Number of Floors,Building Material,Total Material Cost (INR),Total Labor Cost (INR),Permit Cost (INR),Utility Cost (INR),Bedrooms,Bathrooms,Supplier,Area of One Room (sq. meters),Cement Cost (INR per bag),Construction Cost (INR),Total Area of House (sq. meters),Number of Doors,Number of Windows,Number of Rooms,Total Cost (INR)
+0,South Delhi,Vasant Vihar,200,2,Brick,3800000,1900000,160000,120000,4,3,ABC Building Supply,20,410,5400000,220,10,8,8,7420000
+1,North Delhi,Pitampura,180,1,Concrete,2800000,1300000,110000,75000,3,2,XYZ Materials,22,380,4200000,180,8,6,7,4425000
+2,East Delhi,Mayur Vihar,220,3,Wood,4500000,2100000,170000,95000,4,3,LMN Suppliers,24,430,6200000,240,12,10,9,8895000
+3,West Delhi,Rajouri Garden,190,2,Brick,3600000,1700000,140000,90000,3,2,DEF Construction,19,400,5000000,200,9,7,7,6750000
+4,Central Delhi,Connaught Place,210,2,Concrete,4000000,1800000,150000,100000,3,2,GHI Builders,22,390,5400000,210,10,8,8,7560000
+5,South Delhi,Hauz Khas,240,3,Concrete,4800000,2200000,180000,120000,4,3,JKL Supplies,25,450,6800000,260,14,12,10,9920000
+6,North Delhi,Model Town,180,1,Brick,2900000,1400000,105000,72000,3,2,MNO Construction,21,360,4000000,190,8,7,6,4465000
+7,East Delhi,Laxmi Nagar,210,2,Wood,3900000,1800000,140000,90000,3,2,PQR Builders,23,400,5500000,220,12,10,9,8200000
+8,West Delhi,Janakpuri,220,2,Brick,3600000,1700000,140000,95000,3,2,STU Materials,22,410,5200000,220,10,8,7,7305000
+9,Central Delhi,Karol Bagh,200,1,Concrete,3200000,1600000,130000,85000,3,2,VWX Suppliers,20,390,4500000,180,8,7,7,5495000
+10,South Delhi,Saket,240,2,Wood,4200000,2000000,160000,110000,4,3,YZA Construction,25,420,5800000,240,12,10,9,9560000
+11,North Delhi,Rohini,190,1,Brick,3100000,1500000,120000,80000,3,2,BCD Materials,19,370,4300000,190,8,6,7,5055000
+12,East Delhi,Preet Vihar,210,2,Concrete,3700000,1800000,140000,95000,4,3,CDE Builders,24,420,5700000,220,14,12,10,7745000
+13,West Delhi,Dwarka,220,2,Wood,4000000,1900000,160000,110000,4,3,EFG Suppliers,25,430,6000000,240,12,10,9,8380000
+14,Central Delhi,Chandni Chowk,180,1,Brick,3200000,1600000,130000,85000,3,2,HIJ Construction,20,390,4600000,180,8,7,7,5545000
+15,South Delhi,Malviya Nagar,240,3,Concrete,4700000,2200000,180000,120000,4,3,KLM Builders,26,440,6500000,260,14,12,10,10200000
+16,North Delhi,Shalimar Bagh,190,2,Wood,3900000,1800000,140000,90000,4,3,NOP Materials,22,400,5700000,220,12,10,9,8445000
+17,East Delhi,Dilshad Garden,220,2,Brick,3600000,1700000,140000,95000,3,2,QRS Suppliers,21,410,5300000,220,10,8,7,7325000
+18,West Delhi,Punjabi Bagh,200,1,Concrete,3300000,1600000,130000,85000,3,2,TUV Construction,20,390,4500000,180,8,7,7,5495000
+19,Central Delhi,Rajiv Chowk,210,2,Wood,3800000,1900000,160000,110000,4,3,WXY Builders,23,400,5500000,220,12,10,9,7685000
+20,South Delhi,Green Park,260,3,Concrete,4900000,2300000,190000,125000,5,4,ZAB Constructions,28,460,7100000,280,16,14,12,10550000
+21,North Delhi,Ashok Vihar,200,2,Brick,3700000,1800000,140000,90000,4,3,LKJ Materials,22,420,5600000,220,12,10,9,8020000
+22,East Delhi,Shakarpur,220,3,Wood,4300000,2000000,160000,110000,4,3,RST Builders,24,430,6200000,240,14,12,10,10100000
+23,West Delhi,Tilak Nagar,210,2,Concrete,3900000,1800000,140000,95000,3,2,OPQ Suppliers,23,410,5700000,220,12,10,9,8345000
+24,Central Delhi,Daryaganj,190,1,Brick,3100000,1500000,120000,80000,3,2,NST Construction,21,380,4200000,190,8,7,7,4665000
+25,South Delhi,Greater Kailash,240,2,Wood,4200000,2000000,160000,110000,4,3,WZA Constructions,25,430,5800000,240,14,12,10,9560000
+26,North Delhi,Azadpur,180,1,Concrete,3200000,1600000,130000,85000,3,2,UVB Builders,20,390,4400000,180,8,7,7,5545000
+27,East Delhi,Karkardooma,210,2,Wood,3800000,1900000,160000,110000,4,3,XYS Suppliers,23,400,5500000,220,12,10,9,7685000
+28,West Delhi,Rajendra Nagar,220,2,Brick,3600000,1700000,140000,95000,3,2,FGL Materials,22,410,5200000,220,10,8,7,7305000
+29,Central Delhi,ITO,200,1,Concrete,3300000,1600000,130000,85000,3,2,CXY Constructions,20,390,4500000,180,8,7,7,5495000
+30,South Delhi,Lajpat Nagar,240,2,Wood,4000000,1900000,160000,110000,4,3,MNP Builders,24,420,5800000,240,12,10,9,9560000
+31,North Delhi,Kamla Nagar,190,1,Brick,3100000,1500000,120000,80000,3,2,KLO Materials,21,380,4200000,190,8,6,7,4665000
+32,East Delhi,Geeta Colony,210,2,Concrete,3700000,1800000,140000,95000,4,3,KIO Constructions,23,400,5500000,220,14,12,10,7745000
+33,West Delhi,Patel Nagar,220,2,Wood,3900000,1800000,140000,90000,4,3,WER Suppliers,22,410,5200000,220,10,8,7,7305000
+34,Central Delhi,Pragati Maidan,200,1,Concrete,3200000,1600000,130000,85000,3,2,IOP Builders,20,390,4500000,180,8,7,7,5495000
+35, South Delhi      , Saket             ,240,2, Concrete          ,4200000,2000000,160000,110000,4,3, XYZ Construction   ,24,420,5800000,240,11,9,8,7740000
+36, North Delhi      , Pitampura         ,200,1, Brick             ,3400000,1700000,140000,90000,3,2, ABC Materials      ,20,390,4800000,200,9,7,7,6200000
+37, East Delhi       , Preet Vihar       ,210,2, Wood              ,3900000,1800000,150000,100000,3,2, LMN Constructions  ,21,400,5100000,220,10,8,8,6700000
+38, West Delhi       , Dwarka            ,220,2, Concrete          ,4300000,1900000,160000,110000,3,2, PQR Suppliers      ,22,410,5600000,240,11,9,8,7300000
+39, Central Delhi    , Chandni Chowk     ,180,1, Brick             ,3100000,1500000,120000,80000,3,2, STU Construction   ,18,380,4200000,190,8,6,7,4900000
+40, South Delhi      , Malviya Nagar     ,240,3, Concrete          ,4600000,2100000,170000,120000,4,3, OPQ Materials      ,24,450,6400000,280,12,10,9,8400000
+41, North Delhi      , Shalimar Bagh     ,200,2, Wood              ,3800000,1800000,150000,100000,3,2, HIJ Builders       ,20,400,5300000,220,10,8,8,6900000
+42, East Delhi       , Dilshad Garden    ,220,2, Concrete          ,4200000,2000000,160000,110000,3,2, EFG Constructions  ,22,410,5600000,240,11,9,8,7300000
+43, West Delhi       , Punjabi Bagh       ,200,1, Brick             ,3300000,1600000,130000,90000,3,2, KLJ Materials      ,20,390,4800000,200,9,7,7,6200000
+44, Central Delhi    , Rajiv Chowk        ,210,2, Wood              ,3800000,1800000,150000,100000,3,2, MNP Suppliers      ,21,400,5100000,220,10,8,8,6700000
+45, South Delhi      , Nehru Place       ,230,2, Concrete          ,4100000,1800000,150000,100000,3,2, QWE Constructions  ,23,380,5400000,230,10,8,8,6700000
+46, North Delhi      , Rohini Sector 9   ,210,3, Brick             ,3900000,1700000,140000,95000,4,3, TUV Suppliers      ,22,410,5700000,220,11,9,8,7300000
+47, East Delhi       , Mayur Vihar Phase 1,190,2, Concrete          ,3600000,1600000,130000,90000,3,2, XYZ Builders       ,19,390,4800000,200,9,7,7,6200000
+48, West Delhi       , Janakpuri Block C4,240,3, Wood              ,4300000,2000000,160000,110000,4,3, ABC Suppliers      ,24,420,5600000,240,12,10,9,7800000
+49, Central Delhi    , Connaught Place   ,260,3, Concrete          ,4800000,2200000,180000,120000,5,4, DEF Constructions  ,26,440,6400000,260,13,11,10,9000000
+50, South Delhi      , Hauz Khas         ,200,1, Brick             ,3400000,1500000,130000,85000,3,2, GHI Materials      ,20,370,4600000,180,8,6,7,5500000
+51, North Delhi      , Model Town        ,220,2, Wood              ,3800000,1700000,140000,95000,4,3, JKL Constructions  ,22,400,5400000,220,11,9,8,7000000
+52, East Delhi       , Laxmi Nagar       ,210,1, Concrete          ,3600000,1600000,130000,90000,3,2, MNO Suppliers      ,21,390,4800000,200,9,7,7,6200000
+53, West Delhi       , Rajouri Garden    ,240,2, Brick             ,4200000,1900000,160000,110000,4,3, PQR Constructions  ,24,420,5600000,240,12,10,9,7800000
+54, Central Delhi    , Karol Bagh        ,200,2, Wood              ,4000000,1800000,150000,100000,3,2, STU Materials      ,20,390,4800000,200,9,7,7,6200000
+55, South Delhi      , Malviya Nagar     ,180,2, Brick             ,3500000,1700000,140000,95000,3,2, UVW Builders       ,18,370,4500000,190,8,7,7,5700000
+56, North Delhi      , Pitampura         ,200,2, Concrete          ,3700000,1800000,150000,100000,4,3, XYZ Constructions  ,20,380,4800000,200,9,8,8,6000000
+57, East Delhi       , Mayur Vihar Phase 2,220,3, Wood              ,4200000,1900000,160000,110000,4,3, LMN Suppliers      ,22,400,5400000,220,10,9,8,7000000
+58, West Delhi       , Rajouri Garden    ,180,1, Concrete          ,3300000,1600000,130000,85000,3,2, DEF Materials      ,18,380,4400000,190,7,6,7,5100000
+59, Central Delhi    , Connaught Place   ,250,4, Brick             ,4500000,2000000,170000,120000,5,4, GHI Constructions  ,25,410,5900000,250,13,11,10,8000000
+60, South Delhi      , Saket             ,190,2, Wood              ,3800000,1700000,140000,95000,3,2, JKL Suppliers      ,19,390,4900000,210,10,9,8,6500000
+61, North Delhi      , Rohini Sector 7   ,220,3, Concrete          ,4200000,1900000,160000,110000,4,3, MNO Constructions  ,22,400,5400000,220,11,10,9,7200000
+62, East Delhi       , Preet Vihar       ,200,2, Brick             ,3600000,1600000,130000,90000,3,2, PQR Suppliers      ,20,380,4600000,190,9,7,7,5700000
+63, West Delhi       , Dwarka Sector 12  ,260,3, Wood              ,4500000,2000000,170000,120000,4,3, STU Constructions  ,26,430,6000000,260,14,12,10,8200000
+64, Central Delhi    , Chandni Chowk     ,190,2, Concrete          ,3900000,1800000,150000,100000,3,2, VWX Builders       ,19,390,4800000,200,9,8,8,6100000
+65, South Delhi      , Green Park        ,210,3, Brick             ,4000000,1900000,160000,110000,4,3, YZA Suppliers      ,21,400,5200000,210,10,9,8,6800000
+66, North Delhi      , Ashok Vihar Phase 1,180,2, Wood              ,3600000,1600000,130000,90000,3,2, BCD Constructions  ,18,380,4400000,190,7,6,7,5500000
+67, East Delhi       , Shakarpur         ,230,3, Concrete          ,4300000,2000000,170000,120000,4,3, EFG Builders       ,23,410,5500000,230,12,10,9,7400000
+68, West Delhi       , Tilak Nagar       ,190,2, Brick             ,3800000,1700000,140000,95000,3,2, HIJ Suppliers      ,19,390,4800000,200,9,7,7,6100000
+69, Central Delhi    , Daryaganj         ,220,3, Wood              ,4200000,1900000,160000,110000,4,3, KLM Constructions  ,22,400,5400000,220,11,9,8,7000000
+70, South Delhi      , Greater Kailash   ,180,2, Concrete          ,3600000,1600000,130000,90000,3,2, NOP Suppliers      ,18,380,4400000,190,7,6,7,5500000
+71, North Delhi      , Azadpur           ,250,4, Brick             ,4500000,2000000,170000,120000,5,4, QRS Constructions  ,25,410,5900000,250,13,11,10,8000000
+72, East Delhi       , Geeta Colony      ,210,3, Concrete          ,4000000,1800000,150000,100000,4,3, STU Suppliers      ,21,400,5200000,210,10,9,8,6800000
+73, West Delhi       , Patel Nagar       ,220,2, Wood              ,4300000,2000000,170000,120000,4,3, UVW Constructions  ,22,410,5500000,220,11,10,9,7200000
+74, Central Delhi    , Pragati Maidan    ,190,2, Brick             ,3800000,1700000,140000,95000,3,2, XYZ Suppliers      ,19,390,4800000,200,9,8,8,6000000
+75, South Delhi      , Malviya Nagar     ,175,3, Concrete          ,3900000,1850000,150000,105000,3,2, RST Constructions  ,19,395,4800000,205,9,8,8,6200000
+76, North Delhi      , Pitampura         ,210,2, Brick             ,3600000,1600000,140000,95000,3,3, MNO Suppliers      ,21,400,5200000,220,11,10,9,6600000
+77, East Delhi       , Mayur Vihar Phase 1,190,3, Wood              ,4200000,1900000,160000,110000,3,2, UVW Constructions  ,22,410,5500000,230,12,10,10,7400000
+78, West Delhi       , Rajouri Garden    ,205,2, Concrete          ,4100000,1800000,150000,105000,4,3, EFG Suppliers      ,20,395,5100000,210,10,9,8,6700000
+79, Central Delhi    , Connaught Place   ,220,4, Brick             ,4500000,2000000,170000,120000,4,3, NOP Constructions  ,22,400,5400000,220,10,9,9,7100000
+80, South Delhi      , Saket             ,180,3, Wood              ,4100000,1900000,160000,110000,4,2, JKL Suppliers      ,18,385,4900000,200,9,8,8,6500000
+81, North Delhi      , Rohini Sector 8   ,230,2, Concrete          ,4300000,2000000,170000,120000,3,3, PQR Constructions  ,23,420,5500000,230,12,11,10,7500000
+82, East Delhi       , Preet Vihar       ,195,2, Brick             ,3600000,1600000,130000,90000,3,2, HIJ Suppliers      ,19,390,4800000,200,8,7,7,5800000
+83, West Delhi       , Dwarka Sector 6   ,240,4, Wood              ,4800000,2200000,180000,125000,4,3, KLM Constructions  ,24,415,5800000,240,13,11,10,8000000
+84, Central Delhi    , Chandni Chowk     ,200,3, Concrete          ,4200000,1900000,160000,110000,4,2, XYZ Suppliers      ,20,400,5200000,220,10,9,8,6800000
+85, South Delhi      , Green Park        ,190,2, Brick             ,3600000,1600000,130000,90000,3,3, STU Constructions  ,19,395,4700000,200,9,8,7,5900000
+86, North Delhi      , Ashok Vihar Phase 2,230,3, Wood              ,4500000,2000000,170000,120000,4,2, BCD Suppliers      ,23,410,5500000,230,11,10,9,7200000
+87, East Delhi       , Shakarpur         ,195,2, Concrete          ,3800000,1700000,140000,95000,3,2, LMN Constructions  ,19,390,4600000,190,8,7,7,5700000
+88, West Delhi       , Tilak Nagar       ,235,4, Brick             ,4600000,2100000,170000,115000,4,3, EFG Suppliers      ,24,420,5700000,235,12,11,10,7600000
+89, Central Delhi    , Daryaganj         ,185,2, Concrete          ,4000000,1800000,150000,105000,3,2, ABC Constructions  ,20,395,4900000,200,9,8,8,6500000
+90, South Delhi      , Lajpat Nagar      ,210,3, Wood              ,4300000,2000000,170000,120000,4,3, UVW Suppliers      ,21,410,5400000,210,11,10,9,7000000
+91, North Delhi      , Kamla Nagar       ,175,2, Brick             ,3600000,1600000,130000,90000,3,2, MNO Constructions  ,19,395,4800000,200,8,7,7,5800000
+92, East Delhi       , Gandhi Nagar      ,245,4, Concrete          ,4800000,2200000,180000,125000,4,3, XYZ Suppliers      ,24,415,5800000,245,13,11,10,8000000
+93, West Delhi       , Moti Nagar        ,200,3, Wood              ,4200000,1900000,160000,110000,4,2, PQR Constructions  ,20,400,5200000,220,10,9,8,6800000
+94, Central Delhi    , Karol Bagh        ,210,2, Brick             ,4300000,2000000,170000,120000,4,3, HIJ Suppliers      ,21,410,5500000,210,11,10,9,7200000
+95, South Delhi      , Hauz Khas         ,225,2, Concrete          ,4200000,1800000,150000,95000,3,2, XYZ Suppliers      ,21,400,5300000,225,10,8,8,6750000
+96, North Delhi      , Pitampura         ,210,3, Wood              ,4300000,1900000,160000,110000,4,3, ABC Constructions  ,20,390,5200000,220,9,9,9,6600000
+97, East Delhi       , Mayur Vihar Phase 1,190,4, Concrete          ,4500000,2000000,170000,120000,3,2, LMN Constructions  ,19,395,4800000,190,8,7,7,5700000
+98, West Delhi       , Rajouri Garden    ,205,3, Brick             ,3600000,1600000,130000,90000,4,3, DEF Suppliers      ,21,410,5500000,220,11,10,9,7200000
+99, Central Delhi    , Connaught Place   ,220,2, Wood              ,4200000,1900000,160000,110000,4,3, GHI Constructions  ,22,400,5400000,220,10,9,8,6800000
+100, South Delhi      , Saket             ,195,4, Concrete          ,4600000,2100000,170000,115000,3,2, JKL Suppliers      ,23,415,5700000,195,9,8,7,5900000
+101, North Delhi      , Rohini Sector 8   ,230,3, Wood              ,4400000,2000000,165000,120000,4,3, MNO Constructions  ,22,410,5500000,230,11,10,9,7200000
+102, East Delhi       , Preet Vihar       ,185,2, Brick             ,4000000,1700000,140000,95000,3,2, PQR Suppliers      ,20,395,4900000,185,8,7,7,5800000
+103, West Delhi       , Dwarka Sector 6   ,245,4, Concrete          ,4800000,2200000,180000,125000,4,3, XYZ Constructions  ,24,420,5900000,245,12,11,10,7700000
+104, Central Delhi    , Chandni Chowk     ,200,3, Wood              ,4300000,1900000,160000,110000,3,2, HIJ Suppliers      ,20,390,4800000,200,9,8,8,6500000
+105, South Delhi      , Green Park        ,195,2, Concrete          ,4200000,1800000,150000,105000,4,3, STU Constructions  ,21,400,5300000,195,10,9,8,6700000
+106, North Delhi      , Ashok Vihar Phase 2,230,3, Brick             ,4500000,2000000,170000,120000,4,2, BCD Suppliers      ,22,410,5400000,230,11,10,9,7200000
+107, East Delhi       , Shakarpur         ,185,2, Wood              ,4000000,1700000,140000,95000,3,2, LMN Constructions  ,20,395,4900000,185,8,7,7,5800000
+108, West Delhi       , Tilak Nagar       ,235,4, Concrete          ,4800000,2200000,180000,125000,4,3, EFG Constructions  ,24,420,5900000,235,12,11,10,7700000
+109, South Delhi       , Vasant Kunj         ,215,3, Concrete          ,4400000,2100000,160000,100000,4,3, OPQ Constructions   ,22,430,5600000,215,10,8,8,7100000
+110, North Delhi       , Civil Lines         ,195,2, Brick             ,3900000,1700000,140000,90000,3,2, XYZ Suppliers       ,20,385,4800000,195,9,7,7,5700000
+111, East Delhi        , Laxmi Nagar         ,240,4, Concrete          ,4800000,2200000,180000,120000,4,3, ABC Constructions   ,24,450,6000000,240,12,10,10,7800000
+112, West Delhi        , Janakpuri           ,200,3, Wood              ,4200000,1900000,160000,100000,3,2, DEF Suppliers       ,21,410,5400000,200,10,9,8,6600000
+113, Central Delhi     , Karol Bagh          ,225,4, Concrete          ,4600000,2100000,170000,115000,4,3, GHI Constructions   ,23,425,5700000,225,11,10,9,7200000
+114, South Delhi       , Hauz Khas Village   ,205,3, Wood              ,4000000,1800000,150000,95000,3,2, JKL Suppliers       ,21,420,5200000,205,9,8,8,6500000
+115, North Delhi       , Pitampura           ,230,4, Concrete          ,4800000,2200000,180000,125000,4,3, LMN Constructions   ,24,430,5900000,230,12,11,10,7700000
+116, East Delhi        , Mayur Vihar Phase 1 ,190,3, Brick             ,4300000,2000000,170000,120000,3,2, OPQ Suppliers       ,19,405,5200000,190,8,7,7,6200000
+117, West Delhi        , Rajouri Garden      ,215,2, Wood              ,4000000,1700000,140000,90000,3,2, RST Constructions   ,22,400,5400000,215,10,9,8,6700000
+118, Central Delhi     , Connaught Place     ,195,3, Concrete          ,4500000,2000000,160000,100000,4,3, XYZ Suppliers       ,20,390,4900000,195,9,7,7,5900000
+119, South Delhi       , Saket               ,220,4, Brick             ,4700000,2100000,170000,115000,4,3, ABC Constructions   ,22,410,5600000,220,11,10,9,7100000
+120, North Delhi       , Rohini Sector 8     ,205,3, Concrete          ,4800000,2200000,180000,125000,4,3, DEF Suppliers       ,21,400,5300000,205,10,8,8,6500000
+121, East Delhi        , Preet Vihar         ,190,2, Wood              ,4200000,1900000,160000,95000,3,2, GHI Constructions   ,20,395,4800000,190,9,8,7,5800000
+122, West Delhi        , Dwarka Sector 6     ,235,4, Brick             ,4600000,2100000,170000,115000,4,3, JKL Suppliers       ,24,435,5900000,235,12,11,10,7700000
+123, South Delhi      , Malviya Nagar     ,210,3, Concrete          ,4600000,2000000,170000,110000,4,2, MNO Constructions  ,21,430,5600000,210,10,8,8,7000000
+124, North Delhi      , Shalimar Bagh     ,205,2, Wood              ,4100000,1800000,150000,100000,3,3, PQR Suppliers      ,22,390,5300000,205,9,7,7,6400000
+125, East Delhi       , Dilshad Garden    ,220,4, Brick             ,4800000,2200000,180000,125000,4,3, STU Constructions  ,24,420,5900000,220,11,10,9,7600000
+126, West Delhi       , Punjabi Bagh      ,195,3, Concrete          ,4500000,2000000,170000,120000,3,2, UVW Suppliers      ,20,395,4900000,195,8,7,7,5900000
+127, Central Delhi    , Rajiv Chowk       ,235,4, Wood              ,4800000,2200000,180000,125000,4,3, XYZ Constructions  ,24,430,5900000,235,12,11,10,7700000
+128, South Delhi      , Greater Kailash   ,190,3, Brick             ,4400000,1900000,160000,110000,4,3, ABC Suppliers      ,21,410,5600000,190,10,9,8,6700000
+129, North Delhi      , Azadpur           ,215,2, Concrete          ,4700000,2100000,170000,115000,3,2, DEF Constructions  ,22,420,5400000,215,9,8,8,6800000
+130, East Delhi       , Karkardooma       ,200,3, Wood              ,4500000,2000000,170000,120000,4,3, GHI Suppliers      ,23,430,5800000,200,12,11,10,7500000
+131, West Delhi       , Rajendra Nagar    ,225,4, Concrete          ,4800000,2200000,180000,125000,4,3, JKL Constructions  ,25,435,5900000,225,11,10,9,7600000
+132, Central Delhi    , ITO               ,190,3, Brick             ,4400000,1900000,160000,110000,4,3, MNO Suppliers      ,21,410,5600000,190,10,9,8,6700000
+133, South Delhi      , Lajpat Nagar      ,235,4, Concrete          ,4800000,2200000,180000,125000,4,3, PQR Constructions  ,24,420,5900000,235,12,11,10,7700000
+134, North Delhi      , Kamla Nagar       ,200,3, Wood              ,4500000,2000000,170000,120000,4,3, STU Suppliers      ,25,425,5800000,200,12,11,10,7500000
+135, East Delhi       , Geeta Colony      ,190,3, Brick             ,4400000,1900000,160000,110000,4,3, UVW Constructions  ,20,400,5600000,190,10,9,8,6700000
+136, West Delhi       , Patel Nagar       ,225,4, Concrete          ,4800000,2200000,180000,125000,4,3, XYZ Suppliers      ,22,430,5900000,225,11,10,9,7600000
+137, Central Delhi    , Pragati Maidan    ,210,3, Wood              ,4600000,2100000,170000,115000,4,3, ABC Constructions   ,21,420,5600000,210,10,9,8,6700000
+138, South Delhi      , Sarojini Nagar    ,240,4, Concrete          ,4900000,2300000,190000,135000,4,3, DEF Suppliers      ,24,440,5900000,240,12,11,10,7800000
+139, North Delhi      , Model Town        ,215,3, Brick             ,4700000,2100000,170000,115000,4,3, GHI Constructions   ,22,420,5600000,215,11,10,9,7100000
+140, East Delhi       , Shakarpur         ,205,2, Wood              ,4100000,1800000,150000,100000,3,2, JKL Suppliers      ,21,410,5300000,205,10,8,8,6500000
